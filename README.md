@@ -12,7 +12,7 @@ Since the formula for the gravitational force between two bodies has been discov
 So it appears that the problem has essentially been solved! Once we have a differential equation, you usually either solve it analytically or approximate it numerically. However, what makes this problem so famous is that it is almost impossible to do either!
 
 For one, it has been shown that the path almost never has a closed form.
-That is, if p_1(t) = (x_1(t), y_1(t)) is a parametrization of the first body, then it is impossible to write x_1(t) or y_1(t) in a finite combination of elementary functions.
+That is, if p_1(t) = (x_1(t), y_1(t)) is a parametrization of the path of the first body, then it is impossible to write x_1(t) or y_1(t) in a finite combination of elementary functions.
 
 Furthermore, if one chooses to expand the solution using a series expansion, the convergence rate would be too slow to generate sufficient accuracy for applications. From the Wikipedia article on the three-body problem:
 
